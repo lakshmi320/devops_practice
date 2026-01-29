@@ -1,0 +1,12 @@
+pwd
+ls
+cd 
+mkdir
+rm
+chmod
+chown
+ps
+top
+df -h
+free -m
+
