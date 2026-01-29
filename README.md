@@ -8,5 +8,7 @@ Linux, Git and Devops practice
 
   ## purpose
   Hands-on practice on Ec2 and version control using GitHub
+  change from Github web
+  
   
 
