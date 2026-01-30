@@ -1,5 +1,5 @@
 # devops_practice
-Linux, Git and Devops practice
+- Linux, Git and Devops practice
 ## topics covered are 
 - linux commands
 - Git and Github
@@ -8,7 +8,7 @@ Linux, Git and Devops practice
 
   ## purpose
   Hands-on practice on Ec2 and version control using GitHub
-  change from Github web
+  
   
   
 
